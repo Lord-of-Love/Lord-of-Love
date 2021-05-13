@@ -22,8 +22,7 @@ This game will have 3 main branches
 
 ## TODO:
 - build game in GDScript
-- build game in C#
-- build game in C# in one line
+- build game in C#(Unity)
 - build game in C++(Unreal engine)
 
 ## Building the game manually
