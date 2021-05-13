@@ -17,6 +17,14 @@ This game will have 3 main branches
    - this will be the dev branch which also has GDScript but itll be non-main code that is yet to be fully tested and put through QA
  * c-sharp
    - this will be the branch in which I have the game rewritten in C#(solo, so less updates) to do it in one because someone showed me to do it
+ * c-sharp dev
+   - this will not be in one line(also solo but more frequent as it takes no refactoring of code) but it will be using C#. One day ill post
+
+## TODO:
+- build game in GDScript
+- build game in C#
+- build game in C# in one line
+- build game in C++(Unreal engine)
 
 ## Building the game manually
 
