@@ -38,7 +38,7 @@ to install on Linux
 - mono version(can be found in `mono-install.sh`)
 ```
 wget -P /usr/bin -o godot-mono.zip https://downloads.tuxfamily.org/godotengine/3.3/mono/Godot_v3.3-stable_mono_x11_64.zip && \
-cd ~ && \
+cd /usr/bin && \
 unzip godot-mono.zip && \
 cd godot-mono && \
 echo "PATH=$PATH:/usr/bin/godot-mono" >> ~/.bashrc 2>&1 && \
@@ -56,7 +56,7 @@ godot-mono
 - godot no-c#(can be found in `csharp-install.sh`)
 ```
 wget -P /usr/bin -o godot-csharp.zip https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_x11.64.zip && \
-cd ~ && \
+cd /usr/bin && \
 unzip godot-csharp.zip && \
 cd godot-csharp && \
 echo "PATH=$PATH:/usr/bin/godot-csharp" >> ~/.bashrc 2>&1 && \
